@@ -1,0 +1,14 @@
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\bin\Debug\net9.0\1104ex5.exe
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\bin\Debug\net9.0\1104ex5.deps.json
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\bin\Debug\net9.0\1104ex5.runtimeconfig.json
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\bin\Debug\net9.0\1104ex5.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\bin\Debug\net9.0\1104ex5.pdb
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\1104ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\1104ex5.AssemblyInfoInputs.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\1104ex5.AssemblyInfo.cs
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\1104ex5.csproj.CoreCompileInputs.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\1104ex5.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\refint\1104ex5.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\1104ex5.pdb
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\1104ex5.genruntimeconfig.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex5\obj\Debug\net9.0\ref\1104ex5.dll
