@@ -4,7 +4,7 @@ class program{
     static void Main(){
         
         int number1;
-        Console.WriteLine("insira um numero: ");
+        Console.WriteLine("insira um numero qualquer: ");
         number1 = Convert.ToInt32(Console.ReadLine());
        
         
